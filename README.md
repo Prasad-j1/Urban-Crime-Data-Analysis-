@@ -40,4 +40,4 @@ The dataset contains:
 - Real-time analytics dashboard
 
 ## 👨‍💻 Author
-Prasad Joshi
+Prasad S. Joshi
