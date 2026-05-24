@@ -18,7 +18,7 @@ An interactive Power BI dashboard analyzing crime statistics, population distrib
 - Data Analytics
 
 ## 📁 Dataset
-Dataset used: `crime_250_plus.csv`
+Dataset used: `City Crime Dataset`
 
 The dataset contains:
 - Population statistics
