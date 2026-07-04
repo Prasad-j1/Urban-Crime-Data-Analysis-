@@ -26,7 +26,7 @@ Dataset used: `City Crime Dataset`
 
 ### Main Dashboard
 
-<img width="100%" alt="Retail Sales Dashboard" src="City Cirme Dashboard.png">
+<img width="100%" alt="Retail Sales Dashboard" src="City_Cirme_Dashboard.png">
 
 ---
 
