@@ -20,6 +20,16 @@ An interactive Power BI dashboard analyzing crime statistics, population distrib
 ## 📁 Dataset
 Dataset used: `City Crime Dataset`
 
+---
+
+## 📸 Dashboard Preview
+
+### Main Dashboard
+
+<img width="100%" alt="Retail Sales Dashboard" src="City Cirme Dashboard.png">
+
+---
+
 The dataset contains:
 - Population statistics
 - Murder, robbery, rape data
